@@ -1,0 +1,18 @@
+
+
+
+
+.navbar{
+	height : 70px;
+	width :100%;
+	background-color: blue;
+	color:white;
+
+}
+.navbar .logo{
+	height : 40px;
+	width :40px;
+	position :absolute;
+	align-item: left;
+	margin: 5px;
+}
